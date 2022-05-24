@@ -6,7 +6,7 @@
 # Hello Microverse Project
 
 > Module 1: Day 2 Task
-To get familiarized with github flow, branches, use of linters and .gitignore file
+To get familiarized with Gitub Flow, Branches, use of linters and .gitignore file
 
 
 ## Built With
